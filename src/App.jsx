@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>این پیام تستی است </h1>
+    
       <div className="traffic-lights shape">
         <div className="shadow"></div>
 
